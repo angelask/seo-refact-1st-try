@@ -21,6 +21,6 @@ verified all components work.
 
 Conclusion
 To use Horiseon website
-use the following link:
+use the following link: https://angelask.github.io/seo-refact-1st-try/
 Have fun exploring clickable links
 File is updated and working
